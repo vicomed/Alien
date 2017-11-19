@@ -203,11 +203,12 @@ p.alas {
 
 	#column1 {
 		float: left;
-		margin-left: 5px;
+		margin-left: 15px;
 	}
 
 	#column2 {
 		float: right;
+		margin-right: 15px;
 	}
 
 	.column {
